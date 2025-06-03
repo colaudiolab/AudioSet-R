@@ -1,6 +1,8 @@
 # AudioSet-R
 Official implementation: "AudioSet-R: A Refined AudioSet with Multi-Stage LLM Label Reannotation"
 
+![image](https://github.com/colaudiolab/AudioSet-R/blob/main/Illustration/Flowchart.png)
+
 The dataset used in this study is AudioSet dataset: Balanced training set(20550 .wav files), Evaluate set(18885 .wav files).
 
 AudioSet official website: [AudioSet](https://research.google.com/audioset//index.html), [Github](https://github.com/audioset/ontology)
