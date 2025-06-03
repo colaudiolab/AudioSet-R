@@ -2,6 +2,10 @@
 Official implementation: "AudioSet-R: A Refined AudioSet with Multi-Stage LLM Label Reannotation"
 
 ![image](https://github.com/colaudiolab/AudioSet-R/blob/main/Illustration/Flowchart.png)
+Illustrates the proposed three-stage relabeling framework for AudioSet.
+
+![image](https://github.com/colaudiolab/AudioSet-R/blob/main/Illustration/case.png)
+The detailed analysis for three-round audio content extraction.
 
 The dataset used in this study is AudioSet dataset: Balanced training set(20550 .wav files), Evaluate set(18885 .wav files).
 
