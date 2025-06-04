@@ -1,6 +1,8 @@
 # AudioSet-R
 Official implementation: "AudioSet-R: A Refined AudioSet with Multi-Stage LLM Label Reannotation"
 
+If you think this repo is useful to you, please give it to us :star:
+
 ## :loudspeaker: News:
 March, 2025: We submitted our paper on the AudioSet-R Dataset to the ACM MM2025 Dataset track.
 
