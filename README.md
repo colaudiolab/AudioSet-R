@@ -4,7 +4,8 @@ Official implementation: "AudioSet-R: A Refined AudioSet with Multi-Stage LLM La
 If you think this repo is useful to you, please give it to us :star:
 
 ## :loudspeaker: News:
-March, 2025: We submitted our paper on the AudioSet-R Dataset to the ACM MM2025 Dataset track.
+May 31, 2025: We submitted our paper on the AudioSet-R Dataset to the ACM MM2025 Dataset track.
+August 1, 2025: The AudioSet-R paper was accepted by the ACM MM2025 Dataset Track.
 
 ## :information_desk_person: Overview:
 
