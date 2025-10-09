@@ -46,5 +46,10 @@ If you want to perform label prediction on other datasets, please follow the ste
 ## Cites:
 If you found this repo is helpful, please consider citing our papers:
 ```
-
+@article{sun2025audiosetr,
+  title={AudioSet-R: A Refined AudioSet with Multi-Stage LLM Label Reannotation},
+  author={Yulin Sun and Qisheng Xu and Yi Su and Qian Zhu and Yong Dou and Xinwang Liu and Kele Xu},
+  journal={arXiv preprint arXiv:2508.15429},
+  year={2025}
+}
 ```
